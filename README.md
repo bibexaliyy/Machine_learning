@@ -49,4 +49,4 @@ Ordered list:are created usuing numbers
 [Arewa_Data_Sciencce_Website]{https://github.com/arewadataScience/30-Days-of-Python}
 
 # Image
-![IlustrationOfBibex]{https://github.com/arewadataScience/30-Days-of-Python/blob/main/images/arewadsimage.png}
+![IlustrationOfBibex]{E:\Users\user\Downloads\Default_images_showing_a_black_hijabi_in_spacewearing_a_blue_s_2.jpg}
