@@ -50,3 +50,16 @@ Ordered list:are created usuing numbers
 
 # Image
 ![IlustrationOfBibex]{E:\Users\user\Downloads\Default_images_showing_a_black_hijabi_in_spacewearing_a_blue_s_2.jpg}
+
+# Code and syntax
+
+```python
+
+print("hello,world!")
+```
+```bash
+
+git clone link of terminal
+```
+# Tables
+|Name    |Role    |Department   |
