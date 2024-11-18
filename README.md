@@ -46,4 +46,4 @@ Ordered list:are created usuing numbers
 
 # Links
 
-arewa-data-sciencce-website[https://github.com/arewadataScience/30-Days-of-Python]
+[arewa-data-sciencce-website]{https://github.com/arewadataScience/30-Days-of-Python}
