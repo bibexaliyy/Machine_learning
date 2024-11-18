@@ -62,4 +62,22 @@ print("hello,world!")
 git clone link of terminal
 ```
 # Tables
-|Name    |Role    |Department   |
+| Name    | Role    | Department   |
+|---------|---------|--------------|
+|Habiba   |Engineer |ICT           |
+|Isah     |Auditor  |Audit         |
+
+# Task list
+- [ ] Complete Markdown lecture
+- [ ] Prepare AAignments
+- [ ] Review Assignments
+
+- [ ] Task 1
+- [ ] Task 2
+- [x] Completed Task
+
+# Horizontal line
+---
+***
+# Resources
+[]{https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet}
