@@ -46,4 +46,4 @@ Ordered list:are created usuing numbers
 
 # Links
 
-[Arewa-Data-Sciencce-Website{https://arewadatascience.github.io/}]
+[Arewa_Data_Sciencce_Website]{https://arewadatascience.github.io/}
