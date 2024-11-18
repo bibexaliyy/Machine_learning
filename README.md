@@ -47,3 +47,6 @@ Ordered list:are created usuing numbers
 # Links
 
 [Arewa_Data_Sciencce_Website]{https://github.com/arewadataScience/30-Days-of-Python}
+
+# Image
+![IlustrationOfBibex]{C:\Users\Habiba Isah\Downloads\Default_In_the_smokey_neonlit_alley_of_a_futuristic_city_stand_3.jpg}
